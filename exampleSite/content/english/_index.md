@@ -6,7 +6,7 @@ banner:
   image: "/images/banner.png"
   button:
     enable: true
-    label: "See to my projects"
+    label: "See my projects"
     link: "https://git.jereileu.ch/Jero075"
 
 # Features
