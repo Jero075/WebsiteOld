@@ -23,7 +23,7 @@ weight = 4
 
 [[main]]
 parent = "Blog"
-name = "Blog"
+name = "Articles"
 url = "blog/"
 
 [[main]]
