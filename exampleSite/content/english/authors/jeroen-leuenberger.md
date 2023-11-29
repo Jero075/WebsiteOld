@@ -14,7 +14,7 @@ social:
 
   - name: discord
     icon: fa-brands fa-discord
-    link: https://www.discord.gg
+    link: https://discordapp.com/users/752039724230770769
 ---
 
 Hi, I am Jeroen. 
