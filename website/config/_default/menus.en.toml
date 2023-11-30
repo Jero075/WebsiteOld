@@ -29,7 +29,7 @@ url = "blog/"
 [[main]]
 parent = "Blog"
 name = "Authors"
-url = "blog/"
+url = "authors/"
 
 [[main]]
 parent = "Blog"
