@@ -2,7 +2,7 @@
 title: "First Blog Post"
 meta_title: ""
 description: "this is meta description"
-date: 2022-04-04T05:00:00Z
+date: 2023-11-29T10:00:00Z
 image: "/images/image-placeholder.png"
 categories: ["Web", "Blog"]
 author: "Jeroen Leuenberger"

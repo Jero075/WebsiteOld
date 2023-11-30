@@ -17,4 +17,4 @@ social:
     link: https://discordapp.com/users/752039724230770769
 ---
 
-Hi, I am Jeroen. 
+I am Jeroen, read more abot me on the [about page](https://git.jereileu.ch/about).
