@@ -5,7 +5,7 @@ description: "this is meta description"
 draft: false
 ---
 
-email: <a rel="mailto:jereileu@proton.me">jereileu@proton.me<a>
+## email: <a rel="mailto:jereileu@proton.me">jereileu@proton.me<a>
 
 {{< accordion "Want to encrypt your email with PGP?" >}}
 
