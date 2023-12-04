@@ -5,7 +5,7 @@ description: "this is meta description"
 draft: false
 ---
 
-### email: <a rel="mailto:jereileu@proton.me">jereileu@proton.me>
+### email: <a rel="mailto:jereileu@proton.me">jereileu@proton.me</a>
 
 {{< notice "note" >}}
 
