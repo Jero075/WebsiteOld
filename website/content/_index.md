@@ -9,6 +9,28 @@ banner:
     label: "See my projects"
     link: "https://git.jereileu.ch/Jero075"
 
+about:
+  title:
+  ```bash
+  whoami
+  ```
+  content: "I am a student and I develops software in my free-time."
+  button:
+    enable: true
+    label: "Read more about me"
+    link: "https://www.pages.jereileu.ch/about"
+
+projects:
+  title:
+  ```bash
+  ls ~/Projects
+  ```
+  content: "GoMessenger\nGoTables\Hashing-Algorithm\nOFMP (Open Flashcard Management Program)"
+  button:
+    enable: true
+    label: "Read more about my Projects"
+    link: "https://www.pages.jereileu.ch/projects"
+
 # Features
 features:
   - title: "What's Included in Hugoplate"
