@@ -5,7 +5,7 @@ Thumbs.db
 .lock
 .sass-cache
 npm-debug.log
-node_modules
+themes/hugoplate/node_modules
 builds
 package-lock.json
 public
