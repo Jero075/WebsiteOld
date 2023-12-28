@@ -13,6 +13,7 @@ require (
 	github.com/gethugothemes/hugo-modules/gallery-slider v0.0.0-20231128022238-01f05014fce9 // indirect
 	github.com/gethugothemes/hugo-modules/gzip-caching v0.0.0-20231128022238-01f05014fce9 // indirect
 	github.com/gethugothemes/hugo-modules/icons/font-awesome v0.0.0-20231128022238-01f05014fce9 // indirect
+	github.com/gethugothemes/hugo-modules/icons/themify-icons v0.0.0-20231227015948-b2308653c9e2 // indirect
 	github.com/gethugothemes/hugo-modules/images v0.0.0-20231128022238-01f05014fce9 // indirect
 	github.com/gethugothemes/hugo-modules/modal v0.0.0-20231128022238-01f05014fce9 // indirect
 	github.com/gethugothemes/hugo-modules/pwa v0.0.0-20231128022238-01f05014fce9 // indirect

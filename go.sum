@@ -18,6 +18,8 @@ github.com/gethugothemes/hugo-modules/gzip-caching v0.0.0-20231128022238-01f0501
 github.com/gethugothemes/hugo-modules/gzip-caching v0.0.0-20231128022238-01f05014fce9/go.mod h1:0ZMjTZVG4XLZU2/icc8Saqo4mmgMpfRTrUZU2Aa2Pwg=
 github.com/gethugothemes/hugo-modules/icons/font-awesome v0.0.0-20231128022238-01f05014fce9 h1:o4UpBNj6DvSqYFWkkKbYRldPXZ9hI0lX4+eA37m12RQ=
 github.com/gethugothemes/hugo-modules/icons/font-awesome v0.0.0-20231128022238-01f05014fce9/go.mod h1:d3gy1vQyfasPmGpau7HpQLrXbOv23PfXclSnjyOBxeU=
+github.com/gethugothemes/hugo-modules/icons/themify-icons v0.0.0-20231227015948-b2308653c9e2 h1:1diWnaLJTA87xzD4kMAEVDAoq3rtLkyekopYfIgb3D8=
+github.com/gethugothemes/hugo-modules/icons/themify-icons v0.0.0-20231227015948-b2308653c9e2/go.mod h1:hWopv9exSUsFbNUzWemaFvPdyPay0lrqTMHkJXi4n+Y=
 github.com/gethugothemes/hugo-modules/images v0.0.0-20231128022238-01f05014fce9 h1:wNqRHOUBv4j0K4feaOdpryyZQlm6r80VN9cQ9VYJkQo=
 github.com/gethugothemes/hugo-modules/images v0.0.0-20231128022238-01f05014fce9/go.mod h1:FKliP3qOW9diIcQeLtyZ0Hdhg3PL8bdAkC/6O+XtU90=
 github.com/gethugothemes/hugo-modules/modal v0.0.0-20231128022238-01f05014fce9 h1:UDAU1dIWNiML9KfJTVNRpfeG0V6NxeDpumJe8WXvDVE=
