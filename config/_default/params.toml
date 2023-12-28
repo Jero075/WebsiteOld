@@ -11,7 +11,7 @@ logo_height = "32px"
 # if logo_webp set false, will not generate WEBP version of logo | default is true
 logo_webp = true
 # logo text will only show when logo is missing.
-logo_text = "Jeroen-Leuenberger-logo"
+logo_text = "Logo"
 # navbar fixed to top
 navbar_fixed = true
 # theme-mode
@@ -37,9 +37,9 @@ preloader = "" # use jpg, png, svg or gif format.
 
 # Navigation button
 [navigation_button]
-enable = false
-label = "Contact me"
-link = "contact/"
+enable = true
+label = "Support me"
+link = "https://ko-fi.com/Jero075"
 
 # search
 # search module: https://github.com/gethugothemes/hugo-modules/tree/master/search
